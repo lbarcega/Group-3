@@ -89,3 +89,19 @@ background: url(MicrosoftTeams-image (30).jpg);
 mix-blend-mode: normal;
 
 //logo//
+
+position: absolute;
+width: 205px;
+height: 47px;
+left: 70px;
+top: 476px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 41px;
+text-align: center;
+
+color: #FFFFFF;
+//text//
