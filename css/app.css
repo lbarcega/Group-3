@@ -1,116 +1,80 @@
-position: absolute;
+!--body {
+	background-color: #335a87;
+}
 
-width: 891px;
+h1 {
+	font-family: Helvetica;
+	font-size: 48px;
+	line-height: 55px;
+	text-align: center;
+	color: #E2BC8B;
+	-webkit-text-stroke: 3px solid #9A703B;
+	text-shadow: 0px 4px 4pxrgba(0, 0, 0, 0.25);
+}
 
-height: 86px;
+hr {
+	background-color: #2A4E76;
+	height: 2px;
+}
 
-left: 226px;
+.submit-button {
+	background-color: #2A4E76;
+	border: 3px solid #E2BC8B;
+	width: 315px;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
 
-top: 311px;
+.container {
+	width:100%;
+}
 
-background: #3377C5;
+button[type=submit] {
+	
+}
 
-border: 5px solid #E2BC8B;
+button[type=submit]:hover {
+    background-color: #183657;
+    border-color: #5ca990;
+}
 
-box-sizing: border-box;
+input[type=text], [type=email], [type=password] {
+	background-color: #558bc9;
+	color: white;
+	border: 3px solid #E2BC8B;
+}
 
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+input[type=text], [type=email], [type=password]:focus {
+	background-color: #4172ab;
+	color: white;
+	border: 3px solid #E2BC8B;
+}
 
-border-radius: 10px;
+input[type=search] {
+	background-color: #4C4B63;
+	color: white !important;
+	border: #4C4B63;
+	width: 300px !important;
+}
 
-//blue button//
+input[type=search]:focus {
+	background-color: #4C4B63 !important;
+	border: 1px solid #79d8b0;
+}
 
-position: absolute;
+::placeholder {
+  color: white !important;
+  opacity: 1;
+}
 
-width: 315px;
+:-ms-input-placeholder {
+  color: white !important;
+}
 
-height: 86px;
+::-ms-input-placeholder {
+  color: white !important;
+}
 
-left: 969px;
-
-top: 652px;
-
-background: #2A4E76;
-
-border: 5px solid #E2BC8B;
-
-box-sizing: border-box;
-
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-border-radius: 10px;
-
-//dark blue//
-
-/* Strategic Market Risk Consultancy Insurance Agency Inc. */
-
-position: absolute;
-
-width: 1247px;
-
-height: 135px;
-
-left: 37px;
-
-top: 212px;
-
-font-family: Alice;
-
-font-style: normal;
-
-font-weight: normal;
-
-font-size: 48px;
-
-line-height: 55px;
-
-text-align: center;
-
-color: #E2BC8B;
-
-border: 3px solid #9A703B;
-
-text-shadow: 0px 4px 4pxrgba(0, 0, 0, 0.25);
-
-//prominent text//
-
-position: absolute;
-
-width: 840px;
-
-height: 832px;
-
-left: 252px;
-
-top: -37px;
-
-background: url(MicrosoftTeams-image (30).jpg);
-
-mix-blend-mode: normal;
-
-//logo//
-
-position: absolute;
-width: 205px;
-height: 47px;
-left: 70px;
-top: 476px;
-
-font-family: Alice;
-font-style: normal;
-font-weight: normal;
-font-size: 36px;
-line-height: 41px;
-text-align: center;
-
-color: #FFFFFF;
-//text//
-
-position: relative;
-width: 1344px;
-height: 812px;
-
-background: #FFFFFF;
-mix-blend-mode: normal;
-
-//background//
+input:focus {
+	background-color: #706F7D !important;
+	border: 1px solid #79d8b0;
+}
