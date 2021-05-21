@@ -1,0 +1,142 @@
+/* MicrosoftTeams-image (30) 2 */
+
+position: absolute;
+width: 840px;
+height: 832px;
+left: 252px;
+top: -37px;
+
+background: url(MicrosoftTeams-image (30).jpg);
+mix-blend-mode: normal;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 891px;
+height: 86px;
+left: 226px;
+top: 311px;
+
+background: #3377C5;
+border: 5px solid #E2BC8B;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 315px;
+height: 86px;
+left: 969px;
+top: 652px;
+
+background: #2A4E76;
+border: 5px solid #E2BC8B;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 891px;
+height: 86px;
+left: 226px;
+top: 426px;
+
+background: #3377C5;
+border: 5px solid #E2BC8B;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Line 2 */
+
+position: absolute;
+width: 1248px;
+height: 0px;
+left: 48px;
+top: 286px;
+
+border: 5px solid #2C5878;
+
+
+/* Strategic Market Risk Consultancy Insurance Agency Inc. */
+
+position: absolute;
+width: 1240px;
+height: 135px;
+left: 56px;
+top: 122px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 60px;
+line-height: 73px;
+text-align: center;
+
+color: #E2BC8B;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Password */
+
+position: absolute;
+width: 187px;
+height: 47px;
+left: 226px;
+top: 445px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 41px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Sign up */
+
+position: absolute;
+width: 187px;
+height: 47px;
+left: 1033px;
+top: 671px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 41px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Email */
+
+position: absolute;
+width: 232px;
+height: 47px;
+left: 182px;
+top: 332px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 41px;
+text-align: center;
+
+color: #FFFFFF;
