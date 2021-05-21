@@ -1,0 +1,552 @@
+/* MicrosoftTeams-image (30) 2 */
+
+position: absolute;
+width: 840px;
+height: 832px;
+left: 271px;
+top: -38px;
+
+background: url(MicrosoftTeams-image (30).jpg);
+mix-blend-mode: normal;
+
+
+/* Rectangle 19 */
+
+position: absolute;
+width: 180px;
+height: 64px;
+left: 1012px;
+top: 665px;
+
+background: #EC5B5B;
+border: 5px solid #E2BC8B;
+box-sizing: border-box;
+border-radius: 10px;
+
+
+/* Rectangle 20 */
+
+position: absolute;
+width: 180px;
+height: 64px;
+left: 780px;
+top: 665px;
+
+background: #5BECB8;
+border: 5px solid #E2BC8B;
+box-sizing: border-box;
+border-radius: 10px;
+
+
+/* Approve */
+
+position: absolute;
+width: 396px;
+height: 46px;
+left: 672px;
+top: 671px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 41px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Reject */
+
+position: absolute;
+width: 396px;
+height: 46px;
+left: 904px;
+top: 676px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 41px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 28 */
+
+position: absolute;
+width: 107px;
+height: 49px;
+left: 48px;
+top: 26px;
+
+background: #956B36;
+border-radius: 10px;
+
+
+/* Line 1 */
+
+position: absolute;
+width: 1248px;
+height: 0px;
+left: 40px;
+top: 106px;
+
+border: 5px solid #2C5878;
+
+
+/* Employee Application Form */
+
+position: absolute;
+width: 840px;
+height: 73px;
+left: 274px;
+top: 15px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 60px;
+line-height: 73px;
+text-align: center;
+
+color: #E2BC8B;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Polygon 10 */
+
+position: absolute;
+width: 38px;
+height: 21px;
+left: 1253px;
+top: 349px;
+
+background: linear-gradient(0deg, #FFFFFF, #FFFFFF), #FFFFFF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Rectangle 34 */
+
+position: absolute;
+width: 621px;
+height: 173px;
+left: 34px;
+top: 422px;
+
+background: linear-gradient(0deg, #80BBFB, #80BBFB), #2C5878;
+border-radius: 10px;
+
+
+/* Rectangle 38 */
+
+position: absolute;
+width: 618px;
+height: 173px;
+left: 34px;
+top: 613px;
+
+background: linear-gradient(0deg, #2A4E76, #2A4E76), #2C5878;
+border: 5px solid #E2BC8B;
+box-sizing: border-box;
+border-radius: 10px;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 610px;
+height: 233px;
+left: 681px;
+top: 358px;
+
+background: linear-gradient(0deg, #80BBFB, #80BBFB), #2C5878;
+border-radius: 10px;
+
+
+/* Reasons: */
+
+position: absolute;
+width: 396px;
+height: 46px;
+left: -68px;
+top: 371px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 41px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Reason Box */
+
+position: absolute;
+width: 396px;
+height: 46px;
+left: -54px;
+top: 429px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 41px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Comments: */
+
+position: absolute;
+width: 396px;
+height: 46px;
+left: -34px;
+top: 632px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 41px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Workload Assigned on the following dates of absence: */
+
+position: absolute;
+width: 572px;
+height: 82px;
+left: 694px;
+top: 361px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 34px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 406px;
+height: 54px;
+left: 236px;
+top: 289px;
+
+background: #347ACD;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 425px;
+height: 54px;
+left: 686px;
+top: 289px;
+
+background: #347ACD;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Start Date */
+
+position: absolute;
+width: 212px;
+height: 47px;
+left: 236px;
+top: 291px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 41px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* End Date */
+
+position: absolute;
+width: 212px;
+height: 46px;
+left: 672px;
+top: 297px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 41px;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Line 2 */
+
+position: absolute;
+width: 29px;
+height: 0px;
+left: 652px;
+top: 316px;
+
+border: 5px solid #956B36;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Polygon 8 */
+
+position: absolute;
+width: 38px;
+height: 21px;
+left: 583px;
+top: 325px;
+
+background: linear-gradient(0deg, #FFFFFF, #FFFFFF), #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Polygon 7 */
+
+position: absolute;
+width: 38px;
+height: 21px;
+left: 1054px;
+top: 328px;
+
+background: linear-gradient(0deg, #FFFFFF, #FFFFFF), #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 621px;
+height: 59px;
+left: 34px;
+top: 131px;
+
+background: #347ACD;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Name */
+
+position: absolute;
+width: 212px;
+height: 47px;
+left: -11px;
+top: 143px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 41px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 628px;
+height: 58px;
+left: 681px;
+top: 132px;
+
+background: #347ACD;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Department */
+
+position: absolute;
+width: 212px;
+height: 47px;
+left: 694px;
+top: 136px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 41px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Polygon 7 */
+
+position: absolute;
+width: 38px;
+height: 21px;
+left: 1246px;
+top: 170px;
+
+background: linear-gradient(0deg, #FFFFFF, #FFFFFF), #FFFFFF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Rectangle 35 */
+
+position: absolute;
+width: 621px;
+height: 53px;
+left: 34px;
+top: 213px;
+
+background: #347ACD;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Rectangle 73 */
+
+position: absolute;
+width: 621px;
+height: 53px;
+left: 34px;
+top: 355px;
+
+background: #347ACD;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Position */
+
+position: absolute;
+width: 212px;
+height: 43px;
+left: 10px;
+top: 218px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 41px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Type of Leave */
+
+position: absolute;
+width: 360px;
+height: 43px;
+left: -22px;
+top: 359px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 41px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Arrow 1 */
+
+position: absolute;
+width: 64.01px;
+height: 0px;
+left: 136px;
+top: 49px;
+
+border: 4px solid #FFFFFF;
+box-sizing: border-box;
+transform: rotate(179.1deg);
+
+
+/* Rectangle 69 */
+
+position: absolute;
+width: 26px;
+height: 174px;
+left: 629px;
+top: 417px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 10px;
+
+
+/* Rectangle 71 */
+
+position: absolute;
+width: 26px;
+height: 49px;
+left: 629px;
+top: 417px;
+
+background: linear-gradient(0deg, #347ACD, #347ACD), #347ACD;
+border-radius: 10px;
+
+
+/* Rectangle 70 */
+
+position: absolute;
+width: 26px;
+height: 233px;
+left: 1265px;
+top: 358px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 10px;
+
+
+/* Rectangle 72 */
+
+position: absolute;
+width: 26px;
+height: 49px;
+left: 1266px;
+top: 353px;
+
+background: linear-gradient(0deg, #347ACD, #347ACD), #347ACD;
+border-radius: 10px;
