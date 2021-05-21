@@ -1,0 +1,350 @@
+/* MicrosoftTeams-image (30) 1 */
+
+position: absolute;
+width: 1355px;
+height: 879px;
+left: 0px;
+top: -76px;
+
+background: url(MicrosoftTeams-image (30).jpg);
+
+
+/* Line 3 */
+
+position: absolute;
+width: 1248px;
+height: 0px;
+left: 48px;
+top: 104px;
+
+border: 5px solid #2C5878;
+
+
+/* Rectangle 23 */
+
+position: absolute;
+width: 1283px;
+height: 638px;
+left: 8px;
+top: 153px;
+
+background: #80BBFB;
+border: 5px solid #E2BC8B;
+box-sizing: border-box;
+border-radius: 10px;
+
+
+/* Rectangle 24 */
+
+position: absolute;
+width: 660px;
+height: 51px;
+left: 388px;
+top: 32px;
+
+background: #C4C4C4;
+border-radius: 20px;
+
+
+/* Rectangle 25 */
+
+position: absolute;
+width: 1288px;
+height: 42px;
+left: 8px;
+top: 121px;
+
+background: #347ACD;
+border: 5px solid #E2BC8B;
+box-sizing: border-box;
+border-radius: 10px;
+
+
+/* Line 4 */
+
+position: absolute;
+width: 668.01px;
+height: 0px;
+left: 226.96px;
+top: 789.01px;
+
+border: 5px solid #E2BC8B;
+transform: rotate(-90deg);
+
+
+/* Line 5 */
+
+position: absolute;
+width: 668.01px;
+height: 0px;
+left: 854.5px;
+top: 789.01px;
+
+border: 5px solid #E2BC8B;
+transform: rotate(-90deg);
+
+
+/* Line 6 */
+
+position: absolute;
+width: 668.01px;
+height: 0px;
+left: 1078.5px;
+top: 791.01px;
+
+border: 5px solid #E2BC8B;
+transform: rotate(-90deg);
+
+
+/* Line 8 */
+
+position: absolute;
+width: 1286.01px;
+height: 0px;
+left: 8px;
+top: 255px;
+
+border: 5px solid #E2BC8B;
+transform: rotate(-0.13deg);
+
+
+/* Line 9 */
+
+position: absolute;
+width: 1283.01px;
+height: 0px;
+left: 8px;
+top: 347px;
+
+border: 5px solid #E2BC8B;
+transform: rotate(-0.18deg);
+
+
+/* Line 10 */
+
+position: absolute;
+width: 1286.01px;
+height: 0px;
+left: 8px;
+top: 427px;
+
+border: 5px solid #E2BC8B;
+transform: rotate(-0.04deg);
+
+
+/* Line 11 */
+
+position: absolute;
+width: 1288px;
+height: 0px;
+left: 8px;
+top: 511px;
+
+border: 5px solid #E2BC8B;
+
+
+/* Line 12 */
+
+position: absolute;
+width: 1286px;
+height: 0px;
+left: 8px;
+top: 597px;
+
+border: 5px solid #E2BC8B;
+
+
+/* Line 13 */
+
+position: absolute;
+width: 1286.01px;
+height: 0px;
+left: 8px;
+top: 687px;
+
+border: 5px solid #E2BC8B;
+transform: rotate(0.09deg);
+
+
+/* Rectangle 26 */
+
+position: absolute;
+width: 28px;
+height: 670px;
+left: 1284px;
+top: 123px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 28 */
+
+position: absolute;
+width: 28px;
+height: 670px;
+left: 1284px;
+top: 123px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 10px;
+
+
+/* Rectangle 27 */
+
+position: absolute;
+width: 28px;
+height: 146px;
+left: 1284px;
+top: 121px;
+
+background: #347ACD;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+
+/* Pending Forms */
+
+position: absolute;
+width: 396px;
+height: 55px;
+left: 8px;
+top: 26px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 45px;
+line-height: 55px;
+/* identical to box height */
+text-align: center;
+
+color: #E2BC8B;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Search */
+
+position: absolute;
+width: 212px;
+height: 47px;
+left: 370px;
+top: 34px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 41px;
+text-align: center;
+
+color: #4B3F3F;
+
+
+
+/* Date Applied */
+
+position: absolute;
+width: 212px;
+height: 47px;
+left: 15px;
+top: 123px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 32px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Employee Name */
+
+position: absolute;
+width: 212px;
+height: 47px;
+left: 445px;
+top: 126px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 32px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Start Date */
+
+position: absolute;
+width: 212px;
+height: 47px;
+left: 853px;
+top: 126px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 32px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* End Date */
+
+position: absolute;
+width: 212px;
+height: 47px;
+left: 1084px;
+top: 125px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 32px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 20 */
+
+position: absolute;
+width: 246px;
+height: 49px;
+left: 1065px;
+top: 32px;
+
+background: #956B36;
+border-radius: 10px;
+
+
+/* Leaves Data */
+
+position: absolute;
+width: 193px;
+height: 32px;
+left: 1091px;
+top: 39px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 41px;
+text-align: center;
+
+color: #FFFFFF;
