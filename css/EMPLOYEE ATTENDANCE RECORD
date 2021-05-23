@@ -1,0 +1,305 @@
+* MicrosoftTeams-image (30) 2 */
+
+position: absolute;
+width: 840px;
+height: 832px;
+left: 252px;
+top: -37px;
+
+background: url(MicrosoftTeams-image (30).jpg);
+mix-blend-mode: normal;
+
+
+/* Line 2 */
+
+position: absolute;
+width: 1248px;
+height: 0px;
+left: 48px;
+top: 106px;
+
+border: 5px solid #2C5878;
+
+
+/* Rectangle 74 */
+
+position: absolute;
+width: 107px;
+height: 49px;
+left: 48px;
+top: 27px;
+
+background: #956B36;
+border-radius: 10px;
+
+
+/* Arrow 2 */
+
+position: absolute;
+width: 64.01px;
+height: 0px;
+left: 136px;
+top: 50px;
+
+border: 4px solid #FFFFFF;
+box-sizing: border-box;
+transform: rotate(179.1deg);
+
+
+/* Rectangle 29 */
+
+position: absolute;
+width: 1283px;
+height: 586px;
+left: 30px;
+top: 176px;
+
+background: #80BBFB;
+border: 5px solid #E2BC8B;
+box-sizing: border-box;
+border-radius: 10px;
+
+
+/* Rectangle 29 */
+
+position: absolute;
+width: 1288px;
+height: 42px;
+left: 26px;
+top: 166px;
+
+background: #347ACD;
+border: 5px solid #E2BC8B;
+box-sizing: border-box;
+border-radius: 10px;
+
+
+/* Line 15 */
+
+position: absolute;
+width: 1286.01px;
+height: 0px;
+left: 29px;
+top: 271px;
+
+border: 5px solid #E2BC8B;
+transform: rotate(-0.13deg);
+
+
+/* Line 16 */
+
+position: absolute;
+width: 1286.01px;
+height: 0px;
+left: 26px;
+top: 345px;
+
+border: 5px solid #E2BC8B;
+transform: rotate(-0.13deg);
+
+
+/* Line 17 */
+
+position: absolute;
+width: 1286.01px;
+height: 0px;
+left: 26px;
+top: 423px;
+
+border: 5px solid #E2BC8B;
+transform: rotate(-0.13deg);
+
+
+/* Line 18 */
+
+position: absolute;
+width: 1286.01px;
+height: 0px;
+left: 31px;
+top: 501px;
+
+border: 5px solid #E2BC8B;
+transform: rotate(-0.13deg);
+
+
+/* Line 19 */
+
+position: absolute;
+width: 1286.01px;
+height: 0px;
+left: 30px;
+top: 573px;
+
+border: 5px solid #E2BC8B;
+transform: rotate(-0.13deg);
+
+
+/* Line 20 */
+
+position: absolute;
+width: 1286.01px;
+height: 0px;
+left: 28px;
+top: 647px;
+
+border: 5px solid #E2BC8B;
+transform: rotate(-0.13deg);
+
+
+/* Line 22 */
+
+position: absolute;
+width: 1286.01px;
+height: 0px;
+left: 30px;
+top: 721px;
+
+border: 5px solid #E2BC8B;
+transform: rotate(-0.13deg);
+
+
+/* Rectangle 29 */
+
+position: absolute;
+width: 28px;
+height: 586px;
+left: 1289px;
+top: 176px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 10px;
+
+
+/* Rectangle 29 */
+
+position: absolute;
+width: 28px;
+height: 146px;
+left: 1290px;
+top: 167px;
+
+background: #347ACD;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+
+/* *Employee Name * */
+
+position: absolute;
+width: 272px;
+height: 47px;
+left: 34px;
+top: 120px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 34px;
+text-align: center;
+
+color: #E2BC8B;
+
+
+
+/* Date */
+
+position: absolute;
+width: 272px;
+height: 47px;
+left: 28px;
+top: 167px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 32px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Sign In Time */
+
+position: absolute;
+width: 272px;
+height: 47px;
+left: 420px;
+top: 168px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 32px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Sign Out Time */
+
+position: absolute;
+width: 272px;
+height: 47px;
+left: 918px;
+top: 168px;
+
+font-family: Alice;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 32px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Employee Attendance Record */
+
+position: absolute;
+width: 1338px;
+height: 73px;
+left: 48px;
+top: 18px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 60px;
+line-height: 73px;
+text-align: center;
+
+color: #E2BC8B;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Line 14 */
+
+position: absolute;
+width: 586.13px;
+height: 0px;
+left: 304.13px;
+top: 175.94px;
+
+border: 5px solid #E2BC8B;
+transform: rotate(89.83deg);
+
+
+/* Line 21 */
+
+position: absolute;
+width: 595px;
+height: 0px;
+left: 779px;
+top: 762px;
+
+border: 5px solid #E2BC8B;
+transform: rotate(-90deg);
