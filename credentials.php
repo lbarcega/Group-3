@@ -1,13 +1,3 @@
-<?php
-  //security check
-  session_start();
-  if (isset($_SESSION['isLogin'])) {
-    if ($_SESSION['isLogin'] == true) {
-      header('Location: home.php');
-    }
-  }
-?>
-
 <!doctype html>
 <html lang="en">
   <head>
@@ -27,96 +17,20 @@
     <title>Washi  Log In</title>
   </head>
   <body>
-
-    <!-- Start Header -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-custom-nav">
-      <a class="navbar-brand" href="home.php">
-        <img class="menu-logo" src="images/logo.png">
-		<span class="d-lg-none d-xl-inline" style="margin-left: 5px;">Washi</span>		
-      </a>
-      <button class="submit-button" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav ml-auto">
-			<li class="nav-item">
-				<form action="searchNote.php" method="get" class="form-inline my-2 my-lg-0">
-				<input class="form-control-lg mr-sm-2" type="search" placeholder="Search" aria-label="Search" name="query"required>
-				  <button class="submit-button" type="submit">
-					<i class="fas fa-search"></i>
-				  </button>
-				</form>	
-			</li>		
-          <li class="nav-item">
-            <a class="nav-link" href="home.php">
-              <i class="fas fa-home"></i> Home
-            </a>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              <i class="fas fa-user"></i> Guest
-            </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="registration.php">
-                <i class="fas fa-pencil-alt fa-fw"></i> Sign up
-              </a>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </nav>
-	
-
-    <!-- End Header -->
-
-    <!--div class="container">
-      <form action="authenticate.php" method="post">
-        <div class="form-group">
-          <label for="exampleInputEmail1">Email address</label>
-          <input type="email" name="email" class="form-control-lg" id="exampleInputEmail1" aria-describedby="emailHelp">
-        </div>
-        <div class="form-group">
-          <label for="exampleInputPassword1">Password</label>
-          <input type="password" name="password" class="form-control-lg" id="exampleInputPassword1">
-        </div>
-        <button type="submit" class="submit-button">Submit</button>
-      </form-->
-
     <div class="container mt-5">
 		<div class="mx-auto">
 			<h1>Log In</h1>
 			<hr>
 			<form action="authenticate.php" method="post">
 				<div class="form-group">
-
-					<input type="text" class="form-control-lg" placeholder="Username" name="username" required>
+					<input type="text" class="form-control form-control-lg" placeholder="Username" name="username" required>
 				</div>
 				<div class="form-group">
-
-					<input type="password" class="form-control-lg" placeholder="Password" name="password" required>
+					<input type="password" class="form-control form-control-lg" placeholder="Password" name="password" required>
 				</div>
-					
-				<button type="submit" class="submit-button">Log In</button>				
+				<button type="submit" class="btn btn-primary btn-lg submit-button">Log In</button>				
 			</form>
-	    </div>
-    </div>	  
-      <?php
-        if (isset($_GET['authenticate'])) { //check if authenticate key exists in URL
-          if ($_GET['authenticate'] == "false") {
-            echo '
-              <br>
-              <div class="alert alert-danger" role="alert">
-                <b>Error:</b> Invalid Username or Password.
-              </div>
-            ';
-          }
-        }
-      ?>
-	  
-
-	    
-
+   		 </div>	  
     </div>
 
     <!-- Optional JavaScript -->
