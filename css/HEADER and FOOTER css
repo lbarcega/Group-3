@@ -5,7 +5,7 @@ background: #2A4E76;
 font-family: Montserrat;
 font-style: normal;
 font-weight: normal;
-font-size: 36px;
+font-size: 25px;
 line-height: 44px;
 /* identical to box height */
 text-align: center;
