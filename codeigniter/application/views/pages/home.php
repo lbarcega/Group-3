@@ -2,20 +2,21 @@
 			<div class="mx-auto">
 				<h1>Strategic Market Risk Consultancy Insurance Agency Inc.</h1>
 				<hr>
-						<button type="button" class="btn btn-primary btn-lg btn-block home-button">Employee Information</button>
+						<a href="" class"btn btn-primary btn-lg home-button">Employee Information</a>
 						<br>
 					<div class="row">
 						<div class="col">
-								<button type="button" class="btn btn-primary btn-lg btn-block home-button">Sign In</button>
+								<a href="login" class"btn btn-primary btn-lg home-button">Sign in</a>
 						</div>
 							<div class="col">
-								<button type="button" class="btn btn-primary btn-lg btn-block home-button">Sign Out</button>
+								<a href="" class"btn btn-primary btn-lg home-button">Sign out</a>
 							</div>
 						</div>
 						<br>
-							<button type="button" class="btn btn-primary btn-lg btn-block home-button">Apply for Leave</button>
+							<a href="" class"btn btn-primary btn-lg home-button">Apply for Leave</a>
 						<br>
-							<button type="button" class="btn btn-primary btn-lg btn-block home-button">somethingsgjrnn</button>
+							<a href="" class"btn btn-primary btn-lg home-button">somethingsgjrnn</a>
+
 
 			</div>
 		</div>
