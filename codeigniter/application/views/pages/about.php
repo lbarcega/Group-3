@@ -1,1 +1,1 @@
-About.php page
+Boating is what a boat is about.
