@@ -12,3 +12,4 @@
                 <title>Time Off <?php echo $title; ?></title>
         </head>
         <body>
+		<img class="bg" src="../assets/images/logo.png" alt="logo">
