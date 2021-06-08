@@ -1,4 +1,4 @@
-﻿h1 {
+h1 {
 	font-family: Alice;
 	font-size: 48px;
 	line-height: 55px;
@@ -14,12 +14,10 @@ hr {
 }
 
 .bg{
-	width:100%;
+	background-position:top center;
+	overflow:hidden;
 	height:100%;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	position:absolute;
+	position:fixed;
 	opacity:.45;
 	z-index:-1;
 }
@@ -48,11 +46,9 @@ hr {
 	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
-.container {
-	width:100%;
-}
 
-button[type=submit]:hover {
+
+button[type=submit]:hover, [type=button]:hover {
   	background-color: #183657;
 	border: 3px solid #E2BC8B;
 }
