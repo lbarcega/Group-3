@@ -30,18 +30,18 @@
 						<div class="row">
 							<div class="col">
 								<div class ="row">
-									<select class="form-control">
-										<option>LEAVE1</option>
-										<option>LEAVE2</option>
+									<select class="form-control" name="leave_type">
+										<option>LEAVE</option>
+										<option>LEAVES</option>
 									</select>								
 								</div>
 								<br>
 								<div class="row">
-												<textarea class="form-control" rows="3">Reasons:</textarea>
+									<textarea class="form-control" name="reasons"rows="3">Reasons:</textarea>
 								</div>
 							</div>
 							<div class="col">
-									<textarea class="form-control" rows="6">Workload assigned on the following dates of absence:</textarea>						
+									<textarea class="form-control" name="workload" rows="6">Workload assigned on the following dates of absence:</textarea>							
 							</div>
 						</div>
 						 <br>
