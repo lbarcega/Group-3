@@ -61,6 +61,11 @@ hr {
 	border: 3px solid #E2BC8B;
 	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
+.home-button:hover {
+  	background-color: #183657;
+	border: 3px solid #E2BC8B;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
 
 .submit-button {
 	background-color: #2A4E76;
@@ -76,16 +81,16 @@ button[type=submit]:hover, [type=button]:hover {
 	border: 3px solid #E2BC8B;
 }
 
-input[type=text], [type=email], [type=password], [type=date] {
+.form-control {
 	background-color: #558bc9;
 	color: white;
 	border: 3px solid #E2BC8B;
 }
 
-input[type=text]:focus, [type=email]:focus, [type=password]:focus, [type=date]:focus {
-	background-color: #75abeb;
-	color: white;
-	border: 3px solid #E2BC8B;
+input[type=text]:focus, [type=email]:focus, [type=password]:focus, [type=date]:focus, textarea:focus {
+	background: #75abeb !important;
+	color: white !important;
+	border: 3px solid #E2BC8B !important;
 
 input[type=search] {
 	background-color: #4C4B63;
