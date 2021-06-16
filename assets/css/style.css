@@ -46,6 +46,8 @@ hr {
 }
 
 .header {
+	top:0;
+	width:100%;
 	position: fixed;
   	color: white;
   	text-align: center;
