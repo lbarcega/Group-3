@@ -12,6 +12,8 @@
                 <title>Time Off <?php echo $title; ?></title>
         </head>
         <body>
+		<div class="header  text-center">Strategic Market Risk Consultancy Insurance Agency Inc.>
+					 </div>
 		<div class="bg">
 			<img src="../assets/images/logo.png" alt="logo">
 		</div>
