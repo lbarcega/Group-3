@@ -48,11 +48,10 @@ hr {
 .header {
 	top:0;
 	width:100%;
-	position: fixed;
+	position: sticky;
   	color: white;
   	text-align: center;
   	padding: 8px;
-  	text-decoration: none;
   	font-size: 18px;
   	line-height: 40px;
 	background-color: #2E496A;
