@@ -128,3 +128,7 @@ input[type=search]:focus {
 ::-ms-input-placeholder {
   color: white ;
 }
+
+.btn-secondary {
+    background-color: #E2BC8B !important;
+}
