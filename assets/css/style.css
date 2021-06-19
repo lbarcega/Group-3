@@ -129,6 +129,10 @@ input[type=search]:focus {
   color: white ;
 }
 
-.btn-secondary {
+.back-button {
     background-color: #E2BC8B !important;
+}
+
+.back-button:hover {
+    background-color: #9C7F5A !important;
 }

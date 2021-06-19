@@ -17,4 +17,4 @@
 		<div class="bg">
 			<img src="../assets/images/logo.png" alt="logo">
 		</div>
-        <button class = "btn btn-secondary mt-3 ml-3" onclick="history.go(-1);">Back </button>
+        <button class = "btn btn-secondary back-button mt-3 ml-3" onclick="history.go(-1);">Back </button>
