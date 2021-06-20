@@ -4,16 +4,18 @@
 				<hr>
 						<div class="row">
 							<div class="col">
-								<div class="col form-control">Name</div>
+								<div class="col form-control"><?php echo $this->session->userdata('Name');  ?></div>
 							</div>
 							<div class="col">
-								<div class="col form-control">Position</div>
+
+								<div class="col form-control"><?php echo $this->session->userdata('Department');  ?></div>
+                
 							</div>
 						</div>
 						<br>
 						<div class="row">
 							<div class="col-6">
-								<div class="col form-control">Department</div>
+								<div class="col form-control"><?php echo $this->session->userdata('Position');  ?></div>
 							</div>
 						</div>
 							<br>
