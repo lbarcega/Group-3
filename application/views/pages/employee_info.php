@@ -1,30 +1,35 @@
 
-		<div class="container mt-5">
+		<div class="container">
 			<div class="mx-auto">
 				<h1>Employee Information</h1>
 				<hr>
 					<div class="container my-5">
 						<div class="row">
 							<div class="col-sm-7">
-								<div class="col form-control form-control-lg">Name</div>
+								<label class="label">Name</label>
+								<div class="col form-control form-control-lg"><?php echo $this->session->userdata('name');  ?></div>
 							</div>
 							<div class="col-sm">
-								<div class="col form-control form-control-lg">Birthdate</div>
+								<label class="label">Birth Date</label>
+								<div class="col form-control form-control-lg"><?php echo $this->session->userdata('birth_date');  ?></div>
 							</div>
 						</div>
 						<br>
 						<div class="row">
 							<div class="col-sm-7">
-								<div class="col form-control form-control-lg">Department</div>
+								<label class="label">Department</label>
+								<div class="col form-control form-control-lg"><?php echo $this->session->userdata('department');  ?></div>
 							</div>
 							<div class="col-sm">
-								<div class="col form-control form-control-lg">Position</div>
+								<label class="label">Position</label>
+								<div class="col form-control form-control-lg"><?php echo $this->session->userdata('position');  ?></div>
 							</div>
 						</div>
 						<br>
 						<div class="row">
 							<div class="col-sm-7">
-								<div class="col form-control form-control-lg">Email</div>
+								<label class="label">Email</label>
+								<div class="col form-control form-control-lg"><?php echo $this->session->userdata('email');  ?></div>
 							</div>
 						</div>
 					</div>
