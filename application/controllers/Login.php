@@ -37,7 +37,12 @@ class Login extends CI_Controller {
 			{
 				$user_id = $this->session->userdata('id');
 				$this->users_model->set_user($user_id);
-				redirect('home');
+				if($this->session->userdata('is_admin')=="yes"){
+					redirect('staff_home');					
+				}
+				else{
+					redirect('home');
+				}
 			}
 		}
 		else
