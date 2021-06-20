@@ -103,11 +103,6 @@ hr {
 	  font-family: alice;
 }
 
-  .row {
-	 font-family: alice;
-  }
-
-
 button[type=submit]:hover, [type=button]:hover {
   	background-color: #183657;
 	border: 3px solid #E2BC8B;
