@@ -1,3 +1,12 @@
+<?php
+if(!$this->session->userdata('id'))
+{
+	if(!$title=="Login"||!$title=="Registration")
+	{
+        redirect('login');
+	}
+}
+?>
 <html>
         <head>
 	    <!-- Required meta tags -->
