@@ -14,6 +14,7 @@ class Users_model extends CI_Model
 					$this->session->set_userdata('position', $row->position);
 					$this->session->set_userdata('department', $row->department);
 					$this->session->set_userdata('email', $row->email);
+					$this->session->set_userdata('is_admin', $row->is_admin);
 			}
 		}
 		else
