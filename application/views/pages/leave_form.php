@@ -7,7 +7,9 @@
 								<div class="col form-control"><?php echo $this->session->userdata('Name');  ?></div>
 							</div>
 							<div class="col">
+
 								<div class="col form-control"><?php echo $this->session->userdata('Department');  ?></div>
+                
 							</div>
 						</div>
 						<br>
