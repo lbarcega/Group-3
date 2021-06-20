@@ -7,7 +7,7 @@
 								<div class="col form-control">Name</div>
 							</div>
 							<div class="col">
-								<div class="col form-control">Birthdate</div>
+								<div class="col form-control">Position</div>
 							</div>
 						</div>
 						<br>
