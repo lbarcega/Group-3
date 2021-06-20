@@ -31,8 +31,10 @@
 							<div class="col">
 								<div class ="row">
 									<select class="form-control" name="leave_type">
-										<option>LEAVE</option>
-										<option>LEAVES</option>
+										<option>Available Paid Leave Absences</option>
+										<option>Sick Leave: 12 days</option>
+										<option>Vacation Leave: 12 days</option>
+										<option>Emergency Leave: 3 days</option>
 									</select>								
 								</div>
 								<br>
