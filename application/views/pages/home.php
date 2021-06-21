@@ -9,7 +9,7 @@
 								<a href="#" class="btn btn-primary btn-lg btn-block home-button">Sign In</a>
 						</div>
 							<div class="col">
-								<a href="<?php echo site_url(); ?>/pages/logout" class="btn btn-primary btn-lg btn-block home-button">Sign Out</a>
+								<a href="<?php echo site_url(); ?>/logout/logout" class="btn btn-primary btn-lg btn-block home-button">Sign Out</a>
 							</div>
 						</div>
 						<br>
