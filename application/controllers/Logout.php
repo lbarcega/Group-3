@@ -1,4 +1,7 @@
 <?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Logout extends CI_Controller {
 function logout()
 	{
 		$data = $this->session->all_userdata();
@@ -8,4 +11,5 @@ function logout()
 		}
 		redirect('login');
 	}
+}
 ?>
