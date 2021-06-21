@@ -16,13 +16,4 @@ class Pages extends CI_Controller {
         $this->load->view('pages/'.$page, $data);
         $this->load->view('templates/footer', $data);
         }
-	function logout()
-	{
-		$data = $this->session->all_userdata();
-		foreach($data as $row => $rows_value)
-		{
-			$this->session->unset_userdata($row);
-		}
-		redirect('login');
-	}
 }
