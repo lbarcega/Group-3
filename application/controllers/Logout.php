@@ -1,5 +1,8 @@
 <?php
-function logout()
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Register extends CI_Controller {
+function clearUser()
 	{
 		$data = $this->session->all_userdata();
 		foreach($data as $row => $rows_value)
@@ -8,4 +11,5 @@ function logout()
 		}
 		redirect('login');
 	}
+}
 ?>
