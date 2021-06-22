@@ -10,14 +10,14 @@
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.1/css/all.css">
 
 		<!-- Custom CSS -->
-		<link rel="stylesheet" type="text/css" href="../assets/css/style.css">
+		<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>/assets/css/style.css">
                 <title>Time Off <?php echo $title; ?></title>
         </head>
         <body>
 		<div class="header  text-center">Strategic Market Risk Consultancy Insurance Agency Inc.
 					 </div>
 		<div class="bg">
-			<img src="../assets/images/logo.png" alt="logo">
+			<img src="<?php echo base_url(); ?>/assets/images/logo.png" alt="logo">
 		</div>
 	<?php
             if($this->session->flashdata('message'))
