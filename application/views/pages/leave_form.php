@@ -21,7 +21,7 @@
 							</div>
 						</div>
 							<br>
-				<form action="<?php echo site_url(); ?>/leave_application/submitform" method="post">
+				<form action="<?php echo site_url(); ?>/leave_apply/submitform" method="post">
 					<div class="form-row justify-content-md-center">
 						<div class="col-3">
 								<input class="form-control form-control-sm" type="text" placeholder="Start Date" onfocus="(this.type='date')" name="start_date" value="<?php echo set_value('start_date'); ?> " required>
