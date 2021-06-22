@@ -13,7 +13,7 @@
 							</div>
 						</div>
 						<br>
-							<a href="<?php echo site_url(); ?>/pending_form" class="btn btn-primary btn-lg btn-block home-button">Pending Forms</a>
+							<a href="<?php echo site_url(); ?>/pending_forms/table" class="btn btn-primary btn-lg btn-block home-button">Pending Forms</a>
 						<br>
 							<a href="#" class="btn btn-primary btn-lg btn-block home-button">Employee Attendance</a>
 			</div>
