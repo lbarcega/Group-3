@@ -19,4 +19,14 @@
 		<div class="bg">
 			<img src="../assets/images/logo.png" alt="logo">
 		</div>
+	<?php
+            if($this->session->flashdata('message'))
+            {
+                echo '
+                <div class="alert alert-danger">
+                    '.$this->session->flashdata("message").'
+                </div>
+                 ';
+                }
+        ?>
         <button class = "btn btn-secondary back-button mt-3 ml-3" onclick="history.go(-1);"><i class="fas fa-arrow-left"></i></button>
